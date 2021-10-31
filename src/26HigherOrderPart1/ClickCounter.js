@@ -20,7 +20,7 @@ import React, { Component } from 'react'
         return (
             <div>
                 <button onClick={this.incrementCount}>Clicked  {this.state.count}times</button>
-                <button onClick={this.incrementCount}>Clicked {count} times</button>
+                <button onClick={this.incrementCount}>Clicked  times{count}</button>
             </div>
         )
     }
