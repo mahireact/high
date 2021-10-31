@@ -1,0 +1,6 @@
+
+proops(clickcounter)
+hoverCounter(props)
+parent(stat)
+life counter logic to parent and pass props 
+thhis is know as code duplication

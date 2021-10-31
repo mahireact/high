@@ -1,0 +1,5 @@
+first pass name in app component for clickcounter
+
+when we specify this.props.name 
+this wont give output the props should send down to hoc not to click counter
+render in click countr this.props.name

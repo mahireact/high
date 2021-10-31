@@ -1,0 +1,8 @@
+error boundary
+a class component that implements either one or both of the lifecycle
+methods
+getDerivedStateFromError or componentDidCatch becomes an error boundary
+The static metod getDerivedStateFromError method is used to render a fallback UI after an error is thrown and the componentDidCatch method is used to log the error information
+create a compoent llike errorboundary.js
+and wrap this in app.js
+after this we get error during develop click on close button

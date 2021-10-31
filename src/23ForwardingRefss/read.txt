@@ -1,0 +1,4 @@
+1st create ref in parent component
+fowart the refs in to child component from parent component 
+to forward a ref we use React.forwardRef() in child component
+in react.forwardRef(second parammenter is re)

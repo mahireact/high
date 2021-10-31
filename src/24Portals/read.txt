@@ -1,0 +1,12 @@
+react portals provide a way to render children into Dom node that exist outside the dome hierachy of parent component
+
+go to public folder index.html
+id=root
+go to index.js file 
+document.getElementById('root');
+react poortals provide the ability to break down the dom tree
+go to index.html and writhe the below root element id=portal-react
+create PortalDemo
+in this while returning wwrite ReactDOM.createPortal(jsx,domnode to mount the element)
+https://codesandbox.io/s/00254q4n6p?file=/src/index.js
+to this link

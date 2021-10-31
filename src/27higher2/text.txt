@@ -1,0 +1,14 @@
+what is higher ordder
+a pattern where a functionn takes a component as an argument and returns a new component
+const NewComponent=higherOrderComponent(originalComponent)
+const enhancedComponent=higherOrderComponent(originalComponent)
+const updatedComponent=(OriginalComponet)=>{
+class NewComponent extends React.Component{
+    render(){
+        return <OriginalComponet/>
+
+    }
+}
+return NewComponent
+}
+export default updatedComponent

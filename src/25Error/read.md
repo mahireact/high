@@ -1,0 +1,1 @@
+for error boundary we need to define getDerived state from method or componentDidcatch
